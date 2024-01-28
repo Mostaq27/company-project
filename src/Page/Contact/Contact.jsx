@@ -11,7 +11,7 @@ const Contact = () => {
 
             <div className="w-2/3 mx-auto py-16 " id='contact'>
                 <Zoom>
-                <h2 className='text-center text-white font-bold text-4xl my-10'>Contact <span className='text-[#4ADE80]'>Me</span></h2>
+                <h2 className='text-center text-white font-bold text-4xl my-10'>Contact <span className='text-[#4ADE80]'>Us</span></h2>
                 </Zoom>
                 <div className='hero-content flex-col lg:flex-row-reverse'>
                     <Slide direction='right'>
